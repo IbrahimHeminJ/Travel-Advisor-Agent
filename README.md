@@ -1,9 +1,3 @@
----
-marp: false
----
-
-
-````markdown
 # AI Travel Planner – Knowledge-Based Reasoning Agent
 
 This project is a **knowledge-based AI Travel Planner agent** written in Python.  
